@@ -29,7 +29,7 @@ const Index = () => {
           <div className="flex flex-wrap justify-center gap-4 pt-4">
             <div className="flex items-center gap-2 px-4 py-2 bg-white border rounded-lg shadow-md">
               <FileVideo className="h-4 w-4 text-indigo-500" />
-              <span className="text-sm text-gray-700">Upload or YouTube</span>
+              <span className="text-sm text-gray-700">YouTube Video</span>
             </div>
             <div className="flex items-center gap-2 px-4 py-2 bg-white border rounded-lg shadow-md">
               <Brain className="h-4 w-4 text-indigo-500" />
